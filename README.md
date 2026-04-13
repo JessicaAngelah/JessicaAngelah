@@ -9,18 +9,11 @@ I’m a Computer Science graduate who enjoys building digital products that blen
 ## ✧ About Me
 
 * 💻 Passionate about **frontend development & UI/UX design**
-* 📊 Experienced in **data analysis & dashboards**
-* 🎨 I love creating things that are both **functional and aesthetic**
+* 📊 Experienced in **data analysis & visualization**
+* 🎨 I love creating things that are **clean, responsive, and user-friendly**
 * 🌱 Always learning, improving, and exploring new tech
-
----
-
-## ✦ What I Do
-
-* Build responsive and interactive web applications
-* Design clean and user-friendly interfaces
-* Work with data to create meaningful insights
-* Turn ideas into real, usable products
+* 💼 Work with data to create meaningful insights
+* 💡 Turn ideas into real, usable products
 
 ---
 
