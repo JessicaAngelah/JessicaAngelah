@@ -1,19 +1,12 @@
+<p align="center">
 ### ⟡ ֺ‧₊˚🖇️✩ ₊˚🎧⊹♡ 📷𓈒🖱️
+</p>
+
 # Hello World! My Name is Jessica! 
-![Banner](https://i.pinimg.com/originals/05/28/7f/05287faf7984313b3a746c3791996f06.gif)
 
-I’m a Computer Science graduate who enjoys building digital products that blend **technology, design, and real user needs** ♡
-
----
-
-## ✧ About Me
-
-* 💻 Passionate about **frontend development & UI/UX design**
-* 📊 Experienced in **data analysis & visualization**
-* 🎨 I love creating things that are **clean, responsive, and user-friendly**
-* 🌱 Always learning, improving, and exploring new tech
-* 💼 Work with data to create meaningful insights
-* 💡 Turn ideas into real, usable products
+<p align="center">
+  <img src="https://i.pinimg.com/originals/05/28/7f/05287faf7984313b3a746c3791996f06.gif" width="400"/>
+</p>
 
 ---
 
@@ -27,21 +20,12 @@ AND MORE!
 
 ---
 
-## ✦ Currently
+## ✦ Top Languages Used
 
-* 🚀 Improving my development & design skills
-* 🧠 Learning more about **AI & data-driven applications**
-* ✨ Building projects and refining my workflow
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
 
 ---
 
-## ✧ Connect With Me
-
-* 🌐 Portfolio: http://jessicaah-portfolio.vercel.app
-* 💼 LinkedIn: https://www.linkedin.com/in/jessicaah287
-* 📧 Email: [jessicaah2826@gmail.com](mailto:jessicaah2826@gmail.com)
-
----
 
 ## ⊹₊˚ ♡
 
