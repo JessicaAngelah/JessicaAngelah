@@ -20,9 +20,8 @@ I’m a Computer Science graduate who enjoys building digital products that blen
 ## ✧ Tech Stack
 
 ```bash
-Languages:    JavaScript | TypeScript | Python | Java | C 
-Frontend:     React | Next.js | HTML | CSS  
-Tools:        Figma | Power BI | Git | Vercel | VSC
+Languages:    JavaScript | TypeScript | Python | Java | C | HTML | CSS 
+Tools:        Figma | Power BI | Git | Vercel | VSC | Jira | Docker
 ```
 AND MORE!
 
