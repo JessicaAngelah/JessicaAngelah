@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/05/28/7f/05287faf7984313b3a746c3791996f06.gif" width="300"/>
+  <img src="https://i.pinimg.com/originals/05/28/7f/05287faf7984313b3a746c3791996f06.gif" width="250"/>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ## ✧ Tech Stack
 
 ```bash
-Languages:    JavaScript | TypeScript | Python | Java | C | HTML | CSS 
+Languages:    JavaScript | TypeScript | Python | Java | C | HTML | CSS | C++
 Tools:        Figma | Power BI | Git | Vercel | VSC | Jira | Docker
 ```
 
@@ -24,12 +24,7 @@ AND MORE!
 
 ---
 
-<p align="center">
-⊹₊˚ ♡
-</p>
-
----
 
 <p align="center">
-Thanks for visiting my GitHub!
+Thanks for visiting my GitHub! ⊹₊˚ ♡
 </p>
