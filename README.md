@@ -1,6 +1,6 @@
-## ⟡ ֺ‧₊˚🖇️✩ ₊˚🎧⊹♡ 📷𓈒🖱️
+⟡ ֺ‧₊˚🖇️✩ ₊˚🎧⊹♡ 📷𓈒🖱️
 
-# Hello World! My Name is Jessica! ✿
+# Hello World! My Name is Jessica! 
 
 I’m a Computer Science graduate who enjoys building digital products that blend **technology, design, and real user needs** ♡
 
