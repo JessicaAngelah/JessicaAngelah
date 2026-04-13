@@ -1,16 +1,56 @@
-## Hi there 👋
+## ⟡ ֺ‧₊˚🖇️✩ ₊˚🎧⊹♡ 📷𓈒🖱️
 
-<!--
-**JessicaAngelah/JessicaAngelah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello World! My Name is Jessica! ✿
 
-Here are some ideas to get you started:
+I’m a Computer Science graduate who enjoys building digital products that blend **technology, design, and real user needs** ♡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✧ About Me
+
+* 💻 Passionate about **frontend development & UI/UX design**
+* 📊 Experienced in **data analysis & dashboards**
+* 🎨 I love creating things that are both **functional and aesthetic**
+* 🌱 Always learning, improving, and exploring new tech
+
+---
+
+## ✦ What I Do
+
+* Build responsive and interactive web applications
+* Design clean and user-friendly interfaces
+* Work with data to create meaningful insights
+* Turn ideas into real, usable products
+
+---
+
+## ✧ Tech Stack
+
+```bash
+Languages:    JavaScript | TypeScript | Python | Java | C 
+Frontend:     React | Next.js | HTML | CSS  
+Tools:        Figma | Power BI | Git | Vercel | VSC
+```
+AND MORE!
+
+---
+
+## ✦ Currently
+
+* 🚀 Improving my development & design skills
+* 🧠 Learning more about **AI & data-driven applications**
+* ✨ Building projects and refining my workflow
+
+---
+
+## ✧ Connect With Me
+
+* 🌐 Portfolio: http://jessicaah-portfolio.vercel.app
+* 💼 LinkedIn: https://www.linkedin.com/in/jessicaah287
+* 📧 Email: [jessicaah2826@gmail.com](mailto:jessicaah2826@gmail.com)
+
+---
+
+## ⊹₊˚ ♡
+
+Thanks for visiting my GitHub!
